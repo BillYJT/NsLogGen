@@ -1,0 +1,10 @@
+#NrGnbNetDevice
+#BwpManagerUe
+#BwpManagerGnb
+#NrGnbPhy
+#NrGnbMac
+#NrUeMac
+#NrUePhy
+#NrSpectrumPhy
+NrMacSchedulerNs3
+NrMacSchedulerSrsDefault
